@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>backend development &#8211; Farhan Mullick</title>
+	<atom:link href="/tag/backend-development/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Web Developer &#124; WordPress Expert</description>
+	<lastBuildDate>Sat, 02 Jan 2021 08:49:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/07/cropped-logo_side-32x32.png</url>
+	<title>backend development &#8211; Farhan Mullick</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Wocommerce Development with WordPress</title>
+		<link>/wocommerce-development-with-wordpress/</link>
+					<comments>/wocommerce-development-with-wordpress/#respond</comments>
+		
+		<dc:creator><![CDATA[Farhan Mullick]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2020 08:42:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[web development]]></category>
+		<category><![CDATA[woocommerce]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[backend development]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">/?p=15695</guid>
+
+					<description><![CDATA[<p>Woocommerce Customization and development with #WordPress Giving you a perfect e-commerce setup platform with Products features and variety Inventory Management and Notification Payment Gateway integration (Local and Global) Email Marketing, SEO, and dynamic pricing integration</p>
+<p>The post <a rel="nofollow" href="/wocommerce-development-with-wordpress/">Wocommerce Development with WordPress</a> appeared first on <a rel="nofollow" href="/">Farhan Mullick</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
+<div dir="auto">Woocommerce Customization and development with <a class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 nc684nl6 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl q66pz984 gpro0wi8 b1v8xokw" tabindex="0" role="link" href="https://www.facebook.com/hashtag/wordpress?__eep__=6&amp;__cft__[0]=AZUWhhHvvPuc2gsCRPdAd1snt8i42C-PsmH5OKQA6szh94gJWi2IPeuZdS1dWbUdRM3je_4iZ3DC6s4ID3tiNeDtIuMU8iiiKC6PivN5T4FD5fahzlydNcXzUZvBnLFJkXiwzHANWAyV7tGeYWSK8MBTwhXxbIbKo1Oz8wXSqK8O_l6xD2NXP8SSd94yCaGJPEf7KRXxgUDy8dZoa9a5NJq4&amp;__tn__=*NK-R">#WordPress</a></div>
+</div>
+<div class="o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
+<div dir="auto">Giving you a perfect e-commerce setup platform with</div>
+<ul>
+<li dir="auto">Products features and variety</li>
+<li dir="auto">Inventory Management and Notification</li>
+<li dir="auto">Payment Gateway integration (Local and Global)</li>
+<li dir="auto">Email Marketing, SEO, and dynamic pricing integration</li>
+</ul>
+</div>
+<p>The post <a rel="nofollow" href="/wocommerce-development-with-wordpress/">Wocommerce Development with WordPress</a> appeared first on <a rel="nofollow" href="/">Farhan Mullick</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/wocommerce-development-with-wordpress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
